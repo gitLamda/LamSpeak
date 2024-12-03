@@ -1,4 +1,4 @@
 streamlit
-speech_recognition
+SpeechRecognition
 gspread
 oauth2client
