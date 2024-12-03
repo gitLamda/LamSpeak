@@ -1,4 +1,0 @@
-streamlit
-speech_recognition
-gspread
-oauth2client
