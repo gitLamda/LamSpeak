@@ -2,3 +2,4 @@ streamlit
 SpeechRecognition
 gspread
 oauth2client
+PyAudio
